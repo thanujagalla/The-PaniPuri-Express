@@ -1,0 +1,6 @@
+{
+  "name": "Panipuri Express",
+  "description": "Premium, fully responsive business website for Panipuri Express, specializing in authentic Indian street food, live counters, and high-end catering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
